@@ -1,3 +1,5 @@
+![Hit stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszivkovicx1212%2Fhit-counter)
+
 <div align="center">
 
 # Hi there! 👋
@@ -6,8 +8,11 @@ I am Sergej, full stack web developer living in Serbia and specialized in **web 
   
 ![Sergej's GitHub stats](https://github-readme-stats.vercel.app/api?username=szivkovicx&show_icons=true&theme=prussian&include_all_commits=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=szivkovicx&theme=prussian&layout=compact)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szivkovicx)
   
 I work in web development, data visualisation and system management fields for over 3 years. Specifically, having efficient knowledge of syntax and general system concepts of languages such as C++, C, Python and Typescript/Javascript and using that knowledge to combine it with use of various algorithms to work with a particular project or a feature.
+  
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=szivkovicx&theme=vue)
   
 Some of the languages, systems and frameworks I worked with in the past couple of years:
   
