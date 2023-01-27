@@ -1,8 +1,14 @@
-![Hit stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszivkovicx1212%2Fhit-counter)
-
+<div align='left'>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszivkovicx1212%2Fhit-counter" alt="drawing" width="100"/>  
+</div>
+ 
 <div align="center">
   
 # Hi there! 👋
+  
+<div align='right'>
+<img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="drawing" width="30"/>
+</div>
 
 I am Sergej, full stack web developer living in Serbia and specialized in **web and server related frameworks and tools**. 
   
