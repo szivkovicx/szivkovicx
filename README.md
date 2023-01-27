@@ -11,7 +11,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="drawing" width="30"/>
 </a>
 <a target="_blank" href="https://stackoverflow.com/users/17477786/sergej-zivkovic">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLkLOzIijydVvoMarfpKseGp-oMjcSS6HWA&usqp=CAU" alt="drawing" width="135"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLkLOzIijydVvoMarfpKseGp-oMjcSS6HWA&usqp=CAU" alt="drawing" width="132"/>
 </a>
 </div>
 
