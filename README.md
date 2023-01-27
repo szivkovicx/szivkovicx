@@ -7,7 +7,9 @@
 # Hi there! 👋
   
 <div align='right'>
+<a target="_blank" href="https://www.linkedin.com/in/szivkovicx/">
 <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="drawing" width="30"/>
+</a>
 </div>
 
 I am Sergej, full stack web developer living in Serbia and specialized in **web and server related frameworks and tools**. 
