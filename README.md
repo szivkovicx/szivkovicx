@@ -6,7 +6,7 @@
 
 I am Sergej, full stack web developer living in Serbia and specialized in **web and server related frameworks and tools**. 
   
-  [![user:17477786's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/17477786?theme=default&website=true&location=true)]([1](https://stackoverflow.com/users/17477786/sergej-zivkovic))
+  [![user:17477786's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/17477786?theme=default&website=true&location=true)](https://stackoverflow.com/users/17477786/sergej-zivkovic)
   
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szivkovicx)
   
