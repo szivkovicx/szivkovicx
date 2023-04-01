@@ -5,15 +5,6 @@
 <div align="center">
   
 # Hi there! 👋
-  
-<div align='right'>
-<a target="_blank" href="https://www.linkedin.com/in/szivkovicx/">
-<img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" alt="drawing" width="30"/>
-</a>
-<a target="_blank" href="https://stackoverflow.com/users/17477786/sergej-zivkovic">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLkLOzIijydVvoMarfpKseGp-oMjcSS6HWA&usqp=CAU" alt="drawing" width="132"/>
-</a>
-</div>
 
 I am Sergej, full stack web developer living in Serbia and specialized in **web and server related frameworks and tools**. 
   
