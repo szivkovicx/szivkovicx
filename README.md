@@ -10,7 +10,9 @@ I am Sergej, full stack web developer living in Serbia and specialized in **web 
   
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szivkovicx)
   
-I work in web development, data visualisation and system management fields for over 5 years. Specifically, having efficient knowledge of syntax and general system concepts of languages such as C++, C, Python and Typescript/Javascript and using that knowledge to combine it with use of various algorithms to work with a particular project or a feature.
+I work in web development, data visualisation and system management fields for over 6 years. Specifically, having efficient knowledge of syntax and general system concepts of languages such as C++, C, Python and Typescript/Javascript and using that knowledge to combine it with use of various algorithms to work with a particular project or a feature.
+ 
+Author of [KitBuilder](https://github.com/kit-builder)
     
 Some of the languages, systems and frameworks I worked with in the past couple of years:
   
