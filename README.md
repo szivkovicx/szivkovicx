@@ -10,7 +10,7 @@
   
 # Hi there! 👋
 
-I am Sergej, full stack web developer living in Serbia and specialized in **web and server related frameworks and tools**. 
+I am Sergej, software engineer living in Serbia and specialized in **web and server related frameworks and tools**. 
   
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szivkovicx)
   
