@@ -10,7 +10,7 @@
   
 # Hi there! 👋
 
-I am Sergej, technincal and development lead and software engineer living in Serbia. 
+I am Sergej, technical and development lead and software engineer living in Serbia. 
   
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szivkovicx)
   
