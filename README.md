@@ -10,15 +10,15 @@
   
 # Hi there! 👋
 
-I am Sergej, software engineer living in Serbia and specialized in **web and server related frameworks and tools**. 
+I am Sergej, technincal and development lead and software engineer living in Serbia. 
   
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szivkovicx)
   
-I work in web development, data visualisation and system management fields for over 6 years. Specifically, having efficient knowledge of syntax and general system concepts of languages such as C++, C, Python and Typescript/Javascript and using that knowledge to combine it with use of various algorithms to work with a particular project or a feature.
+I work and worked with different technologies that are a part of different fields of the industry, ranging from embedded low level system engineering and hardware designing to high level development of web applications and frameworks. I have over 7 years of both non-commercial and commercial experience in both management and engineering fields related to different parts of projects.
  
 Author of [KitBuilder](https://github.com/kitbuilder-lib) and [CosmosNode](https://github.com/cosmos-node)
     
-Some of the languages, systems and frameworks I worked with in the past couple of years:
+Some of the languages, projects and frameworks I worked with in the past couple of years:
   
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
