@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <br/>
   
 # Hi there! 👋
@@ -11,9 +11,9 @@ I am Sergej, technical and development lead and software engineer living in Serb
 I work and worked with different technologies that are a part of different fields of the industry, ranging from embedded low level system engineering and hardware designing to high level development of web applications and frameworks. I have over 7 years of both non-commercial and commercial experience in both management and engineering fields related to different parts of projects.
  
 Author of [KitBuilder](https://github.com/kitbuilder-lib) and [CosmosNode](https://github.com/cosmos-node)
-    
+
 Some of the languages, projects and frameworks I worked with in the past couple of years:
-  
+
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
