@@ -1,7 +1,3 @@
-<div align='left'>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszivkovicx1212%2Fhit-counter" alt="drawing" width="100"/>  
-</div>
- 
 <div align="center">
 
 <br/>
