@@ -1,8 +1,6 @@
 <div align="center">
 
 <br/>
-
-<img src="https://myreadme.vercel.app/api/embed/szivkovicx?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
   
 # Hi there! 👋
 
