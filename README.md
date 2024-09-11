@@ -12,7 +12,7 @@ I am Sergej, technical and development lead and software engineer living in Serb
   
 I work and worked with different technologies that are a part of different fields of the industry, ranging from embedded low level system engineering and hardware designing to high level development of web applications and frameworks. I have over 7 years of both non-commercial and commercial experience in both management and engineering fields related to different parts of projects.
  
-Author of [KitBuilder](https://github.com/kitbuilder-lib) and [CosmosNode](https://github.com/cosmos-node)
+Author of [KitBuilder](https://github.com/kitbuilder-lib), [CosmosNode](https://github.com/cosmos-node) and [KeeprJS](https://www.npmjs.com/package/keepr-js).
 
 Some of the languages, projects and frameworks I worked with in the past couple of years:
 
