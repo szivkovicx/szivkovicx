@@ -8,7 +8,7 @@
 
 I am Sergej, technical and development lead and software engineer living in Serbia. 
   
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=szivkovicx)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szivkovicx&hide_progress=true&layout=compact)
   
 I work and worked with different technologies that are a part of different fields of the industry, ranging from embedded low level system engineering and hardware designing to high level development of web applications and frameworks. I have over 7 years of both non-commercial and commercial experience in both management and engineering fields related to different parts of projects.
  
